@@ -1,0 +1,43 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Server",
+      "type": "coreclr",
+      "request": "launch",
+      // "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Server/bin/Debug/net8.0/Server.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "console": "internalConsole"
+    },
+
+    {
+      "name": ".NET ServerCore",
+      "type": "coreclr",
+      "request": "launch",
+      // "preLaunchTask": "build",
+      "program": "${workspaceFolder}/ServerCore/bin/Debug/net8.0/ServerCore.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "console": "internalConsole"
+    },
+  ],
+  "compounds": [
+    {
+      "name": "Server & ServerCore",
+      "configurations": [
+        ".NET Server",
+        ".NET ServerCore"
+      ],
+      "stopAll": true
+    }
+  ]
+}
+
+// https://dev.to/this-is-learning/debugging-multiple-net-projects-in-vs-code-28kn

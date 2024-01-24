@@ -1,0 +1,14 @@
+/Users/minjinhong/test/Inflearn/Server/bin/Debug/net8.0/Server
+/Users/minjinhong/test/Inflearn/Server/bin/Debug/net8.0/Server.deps.json
+/Users/minjinhong/test/Inflearn/Server/bin/Debug/net8.0/Server.runtimeconfig.json
+/Users/minjinhong/test/Inflearn/Server/bin/Debug/net8.0/Server.dll
+/Users/minjinhong/test/Inflearn/Server/bin/Debug/net8.0/Server.pdb
+/Users/minjinhong/test/Inflearn/Server/obj/Debug/net8.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minjinhong/test/Inflearn/Server/obj/Debug/net8.0/Server.AssemblyInfoInputs.cache
+/Users/minjinhong/test/Inflearn/Server/obj/Debug/net8.0/Server.AssemblyInfo.cs
+/Users/minjinhong/test/Inflearn/Server/obj/Debug/net8.0/Server.csproj.CoreCompileInputs.cache
+/Users/minjinhong/test/Inflearn/Server/obj/Debug/net8.0/Server.dll
+/Users/minjinhong/test/Inflearn/Server/obj/Debug/net8.0/refint/Server.dll
+/Users/minjinhong/test/Inflearn/Server/obj/Debug/net8.0/Server.pdb
+/Users/minjinhong/test/Inflearn/Server/obj/Debug/net8.0/Server.genruntimeconfig.cache
+/Users/minjinhong/test/Inflearn/Server/obj/Debug/net8.0/ref/Server.dll
